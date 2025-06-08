@@ -1,0 +1,8 @@
+# config.py
+
+SEED = 42
+NUM_USERS = 1000
+NUM_MERCHANTS = 200
+NUM_TRANSACTIONS = 5000
+FRAUD_RATIO = 0.05
+GRAPH_OUTPUT_PATH = "data/processed/graph_data.pt"
